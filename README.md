@@ -1,6 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm <a href="https://shubhanshu.com">Shubhanshu</a></h1>
+<h3 align="center">I am a Machine Learning Researcher working in Content Understanding Research group at Twitter.</h3>
+<h1 align="center">More details at: <a href="https://shubhanshu.com">shubhanshu.com</a></h1>
+  
+  
 
-More details at: https://shubhanshu.com
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=napsternxg&show_icons=true&locale=en&layout=compact" alt="napsternxg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=napsternxg&show_icons=true&locale=en" alt="napsternxg" /></p>
 
 <!--
 **napsternxg/napsternxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
